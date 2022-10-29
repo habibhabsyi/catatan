@@ -1,0 +1,4 @@
+NISN|NAMA LENGKAP
+
+123456789|habib 
+12345|habib 
